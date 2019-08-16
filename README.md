@@ -1,4 +1,4 @@
-# BLACKPHENIX - MALWARE ANALYSIS + AUTOMATION FRAMEWORK
+## BLACKPHENIX - MALWARE ANALYSIS + AUTOMATION FRAMEWORK
 
 BLACKPHENIX is an open source malware analysis automation framework composed of several services, scripts, plug-ins, and tools and is based on a Command-and-Control (C&C) architecture
 
